@@ -1,4 +1,4 @@
-# ArogyaZK
+# ZKure
 
 ArogyaZK is a React and Express prototype for patient records, consent, and insurance workflows. The API now requires authenticated accounts for sensitive routes. Cryptographic claim verification, insurer settlement, and emergency guardian recovery are intentionally unavailable until their real cryptographic and chain integrations are supplied.
 
